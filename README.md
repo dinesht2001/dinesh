@@ -23,7 +23,7 @@
 - 🧠 **Power Grid Predictive Maintenance using SVM & XGBoost**
 
 📫 **Reach me at:**  
-**Email:** dineshthennarasu@email.com  
+**Email:** dineshthennarasu14@email.com  
 **LinkedIn:** [linkedin.com/in/dineshthennarasu](https://www.linkedin.com/in/dineshthennarasu)
 
 ---
